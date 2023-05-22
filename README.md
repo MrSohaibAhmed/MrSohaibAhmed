@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm MrSohaibAhmed <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/MrSohaibAhmed""></h1>
+    <h1> Hi there, I'm SohaibAhmed <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/MrSohaibAhmed""></h1>
   </div>
 <p align="center">
 <a href="https://github.com/MrSohaibAhmed"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Skill+Trainer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
