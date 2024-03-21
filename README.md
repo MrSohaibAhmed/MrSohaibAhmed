@@ -87,7 +87,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="80">
     </td>
  <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <img src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" width="80">
     </td>
   <td align='center'>
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
