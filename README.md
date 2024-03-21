@@ -81,7 +81,7 @@
  
 <tr>
     <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="80">
+        <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="80">
     </td>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="80">
