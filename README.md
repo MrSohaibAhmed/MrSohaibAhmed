@@ -9,7 +9,7 @@
 
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Passionate about teaching and inspiring students; taught over 100.
+- 📢 Passionate about teaching and inspiring students; taught over 20.
 - 🥅 2023-24Goals: Contribute more to Open Source projects and execute innovative ideas.
 - 💎 Let's connect if you're a tech enthusiast!  
  
@@ -26,9 +26,9 @@
   <a href="https://www.instagram.com/syedwajeehshahhaider/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/wajeehhaider.shah" target="_blank">
+<!--   <a href="https://www.facebook.com/wajeehhaider.shah" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
+  </a> -->
 </div>
  
   <br>
