@@ -10,7 +10,7 @@
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Passionate about teaching and inspiring students; taught over 20.
-- 🥅 2023-24Goals: Contribute more to Open Source projects and execute innovative ideas.
+- 🥅 2024-25Goals: Contribute more to Open Source projects and execute innovative ideas.
 - 💎 Let's connect if you're a tech enthusiast!  
  
  
