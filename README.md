@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/MrSohaibAhmed"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
   </p>
-<h4>Talk with me : <a href="www.linkedin.com/in/sohaib-ahmed-032b57282">www.linkedin.com/in/sohaib-ahmed-032b57282</a></h4>
+<h4>Talk with me : www.linkedin.com/in/sohaib-ahmed-032b57282  </h4>
 
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other content creators and developers.
