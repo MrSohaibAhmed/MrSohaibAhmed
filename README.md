@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/MrSohaibAhmed"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
   </p>
-
+<h3>Talk with me : sohaibahmed248@gmail.com</h3>
 
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other content creators and developers.
