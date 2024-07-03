@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate with other content creators and developers.
 <!-- - 📢 Passionate about teaching and inspiring students; taught over 20. -->
 - 🥅 2024-25 Goals: Contribute more to Open Source projects and execute innovative ideas.
-- <!-- - 📢 Passionate about teaching and inspiring students; taught over 20. -->
+<!-- - 📢 Passionate about teaching and inspiring students; taught over 20. -->
 - 💎 Let's connect if you're a tech enthusiast!  
  
  
